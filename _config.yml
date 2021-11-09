@@ -18,14 +18,15 @@ defaults:
 
 description: mysite
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
+  name: hyd3sec
+  email: 
+  github: hyd3sec
+  twitter: hyd3sec
   pinterest: asd123
   linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  youtube: hyd3sec_io
+  bio: Offsec Researcher | Hacker
+  email_md5: 
 
 rss_path: feed.xml
 categories_path: categories.html
