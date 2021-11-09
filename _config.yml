@@ -7,16 +7,16 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: hyd3sec
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: hyd3sec
 
-description: Stylish Jekyll Theme
+description: mysite
 author:
   name: dbyll
   email: dbyll@ismaildemirbilek.com
