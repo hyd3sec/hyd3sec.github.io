@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: [ Hey ]
+      title: 
 
 description: mysite
 author:
