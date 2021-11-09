@@ -19,16 +19,16 @@ defaults:
 description: mysite
 author:
   name: hyd3sec
-  email: 
+  #email: 
   github: hyd3sec
   twitter: hyd3sec
-  pinterest: asd123
-  linkedin: asd123
+  #pinterest: asd123
+  #linkedin: asd123
   youtube: hyd3sec_io
   bio: Offsec Researcher | Hacker
-  email_md5: 
+  #email_md5: 
 
-rss_path: feed.xml
+#rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
