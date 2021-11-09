@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: hyd3sec
+title: hyd3sec1
 
 defaults:
   -
