@@ -1,4 +1,3 @@
-# Whoami
 
 ## hyd3sec
 
