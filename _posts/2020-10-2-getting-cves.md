@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Sample 2
+title: A Simple Guide to Getting CVEs
 categories: [Security Research]
-tags: [demo, dbyll, dbtek, sample2]
-description: A Simple Guide to Getting CVEs
+tags: [cve, security research, publishing]
+description: A step-by-step guide on how to obtain CVEs.
 ---
 
 ### Co-authored with Bobby Cooke (@0xboku)
