@@ -17,7 +17,9 @@ Since this is the new site, you can view the walkthroughs on my old site at hyd3
 Some of these boxes are active, so I will have to wait until they retire to publish those ones.
 
    -Servmon
+   
    -Resolute
+   
    -Magic
    -Admirer
    -Nest
