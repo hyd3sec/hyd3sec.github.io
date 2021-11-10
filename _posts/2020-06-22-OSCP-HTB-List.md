@@ -19,78 +19,78 @@ Some of these boxes are active, so I will have to wait until they retire to publ
 
    - Servmon
    
-   -Resolute
+   - Resolute
    
-   -Magic
+   - Magic
    
-   -Admirer
+   - Admirer
    
-   -Nest
+   - Nest
    
-   -Sauna
+   - Sauna
    
-   -Cache
+   - Cache
    
-   -Optimum
+   - Optimum
    
-   -Jeeves
+   - Jeeves
    
-   -Valentine
+   - Valentine
   
-   -Bashed
+   - Bashed
    
-   -Shocker
+   - Shocker
    
-   -Jerry
+   - Jerry
    
-   -Friendzone
+   - Friendzone
    
-   -Nibbles
+   - Nibbles
    
-   -Nineveh
+   - Nineveh
    
-   -Beep
+   - Beep
    
-   -Solidstate
+   - Solidstate
    
-   -Sense
+   - Sense
    
-   -Grandpa
+   - Grandpa
    
-   -Devel
+   - Devel
    
-   -Lame
+   - Lame
    
-   -Bastard
+   - Bastard
    
-   -Poison
+   - Poison
    
-   -Cronos
+   - Cronos
    
-   -Sunday
+   - Sunday
    
-   -Irked
+   - Irked
    
-   -Tartarsauce
+   - Tartarsauce
    
-   -Swagshop
+   - Swagshop
    
-   -Granny
+   - Granny
    
-   -Blunder
+   - Blunder
    
-   -Arctic
+   - Arctic
    
-   -Node
+   - Node
    
-   -Legacy
+   - Legacy
    
-   -DevOops
+   - DevOops
    
-   -Hawk
+   - Hawk
    
-   -Networked
+   - Networked
    
-   -Chatterbox
+   - Chatterbox
    
-   -SecNotes
+   - SecNotes
