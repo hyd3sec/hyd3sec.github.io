@@ -5,6 +5,7 @@ categories: [OSCP Prep]
 tags: [oscp, hackthebox]
 description: A list of boxes I went through in preparation for my OSCP attempt (in order).
 ---
+![](/_images/htbbanner.png)
 
 In preparation for the OSCP, these are the boxes that I went after (in this order) after my first failed exam attempt. This list is mostly based on TJ_Null’s OSCP HTB list. There’s 39 boxes in this list, but this is a great example of trying ‘harder’ and going beyond the course material.
 
