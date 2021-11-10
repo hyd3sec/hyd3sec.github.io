@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: HYD3SEC
+      title: hyd3sec
 
 description: mysite
 author:
