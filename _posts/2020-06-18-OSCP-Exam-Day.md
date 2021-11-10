@@ -3,6 +3,7 @@ layout: post
 title: OSCP Exam Day
 categories: [OSCP Prep]
 tags: [oscp]
+description: A play-by-play of my OSCP experience.
 ---
 ![](/images/offsec.png)
 
