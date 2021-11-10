@@ -55,9 +55,3 @@ Some of these boxes are active, so I will have to wait until they retire to publ
    -Networked
    -Chatterbox
    -SecNotes
-
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
