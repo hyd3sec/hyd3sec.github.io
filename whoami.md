@@ -6,6 +6,4 @@ Yup. That's me. Been in IT since September of 2020, all of which has been in off
 
 OSWE - OSCP - eWPTX - GMOB - eWPT - eCPPT - eJPT - Network+ - Security+
 
-## 14+ CVEs
-
 
