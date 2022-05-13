@@ -6,21 +6,6 @@ Yup. That's me. Been in IT since September of 2020, all of which has been in off
 
 OSWE - OSCP - eWPTX - GMOB - eWPT - eCPPT - eJPT - Network+ - Security+
 
-## CVEs
+## 14+ CVEs
 
-- CVE-2020-24196 
-- CVE-2020-24202 
-- CVE-2020-24203
-- CVE-2020-23829
-- CVE-2020-23831
-- CVE-2020-23836
-- CVE-2020-24193
-- CVE-2020-23830
-- CVE-2020-24195
-- CVE-2020-24197
-- CVE-2020-24198
-- CVE-2020-24199
-- CVE-2020-24200
-- CVE-2020-23835
-- CVE-2020-23836
-- CVE-2020-23837
+
